@@ -1,0 +1,22 @@
+{
+  "name": "@fluido/sass-styles",
+  "version": "0.8.0",
+  "description": "Fluido base styles",
+  "main": "lib/*",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Morbden/fluido-sass-styles.git"
+  },
+  "keywords": [
+    "fluido",
+    "styles",
+    "sass",
+    "scss"
+  ],
+  "author": "Morbden",
+  "license": "MIT",
+  "scripts": {
+    "pub": "npm publish --access public"
+  }
+}
