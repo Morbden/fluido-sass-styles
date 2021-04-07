@@ -87,6 +87,8 @@
   --on-error: var(--light-on-error, #fff);
   --warning: var(--light-warning, #ffd600);
   --on-warning: var(--light-on-warning, #000);
+  --info: var(--light-info, #03a9f4);
+  --on-info: var(--light-on-info, #fff);
   --success: var(--light-success, #55dd00);
   --on-success: var(--light-on-success, #000);
 
@@ -125,6 +127,8 @@
   --on-error: var(--dark-on-error);
   --warning: var(--dark-warning);
   --on-warning: var(--dark-on-warning);
+  --info: var(--dark-info);
+  --on-info: var(--dark-on-info);
   --success: var(--dark-success);
   --on-success: var(--dark-on-success);
 
