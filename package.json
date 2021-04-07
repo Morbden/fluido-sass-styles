@@ -1,6 +1,6 @@
 {
   "name": "@fluido/sass-styles",
-  "version": "0.8.0",
+  "version": "0.8.1",
   "description": "Fluido base styles",
   "main": "lib/*",
   "private": false,
